@@ -28,13 +28,13 @@ Meu nome é Rennan, sou um desenvolvedor Web Full Stack. Tenho trabalhado com um
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-## Estou aprendendo
+## 📖 Aprendendo 
 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## Contato
+## 📩 Contato
 - [LinkedIn](https://www.linkedin.com/in/reiony/)
 - E-mail: reiony.dev@gmail.com
 <!--
