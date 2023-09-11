@@ -31,6 +31,8 @@ Meu nome é Rennan, sou um desenvolvedor Web Full Stack. Tenho trabalhado com um
 ## Estou aprendendo
 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/reiony/)
